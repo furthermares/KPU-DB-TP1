@@ -1,4 +1,4 @@
 ### [DB] (201130)
-- ERD, SQL practice
+- ERD, SQL, TCL exercise
 
-[README](T1.pptx)
+### [Presentation](T1.pptx)
